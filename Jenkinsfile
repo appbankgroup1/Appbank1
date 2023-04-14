@@ -1,3 +1,3 @@
-@library('Appbank-shared-library') _
+@Library('Appbank-shared-library') _
 appBank 'https://github.com/appbankgroup1/Appbank-shared-library.git'
 
